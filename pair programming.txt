@@ -1,0 +1,23 @@
+preguntas:
+
+¿Cómo se usa? 
+
+Consiste en que tú y tu compañero trabajen juntos en la misma parte de código
+Colaborando y siendo conscientes del código que se crea
+
+¿Para qué se usa?
+
+Para optimizar el código, tener más una opinión, hacer pruebas y, en general,
+aprovechar el código de una mejor forma al compartirlo con otra persona
+
+
+¿Por qué se usa?
+
+Porque es un método recomendado a la hora de hacer parte de un proyecto complejo
+
+
+Reflexión: ¿Cuál fue la mayor dificultad?
+
+La myor dificultad fue lograr entenderse a la primera, además que cada uno necesita 
+un espacio para tener confianza con el otro. No se puede comenzar a hacer pair progamming
+así como así, primero recomendaría dar un espacio para conocer un poquito al compañero
